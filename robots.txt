@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otheagag.github.io/sitemap.html.gz
+Sitemap: https://otheagag.github.io/app/sitemap.html.gz
+Sitemap: https://otheagag.github.io/assets/sitemap.html.gz
+Sitemap: https://otheagag.github.io/css/sitemap.html.gz
+Sitemap: https://otheagag.github.io/data/sitemap.html.gz
+Sitemap: https://otheagag.github.io/includes/sitemap.html.gz
+Sitemap: https://otheagag.github.io/item/sitemap.html.gz
+Sitemap: https://otheagag.github.io/src/sitemap.html.gz
